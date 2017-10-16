@@ -1,0 +1,27 @@
+p{
+    font-family: "Times New Roman";
+    background-color: aliceblue;
+    font-size: 30px;
+}
+
+.style1{
+    font-size: medium;
+    background-color: indianred;
+    font-family: "Monotype Corsiva";
+}
+
+body{
+    background-color: navajowhite;
+}
+
+h1{
+    font-style: italic;
+    background-color: cadetblue;
+    color: aqua;
+}
+
+.style2{
+    background-color: lightcyan;
+    font-size: medium;
+    font-style: italic;
+}

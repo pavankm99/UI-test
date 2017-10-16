@@ -1,0 +1,17 @@
+body{
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+}
+tr{
+    background-color: gainsboro;
+    font-style: italic;
+}
+td{
+    font-family: "Arial Black";
+    border: 1px dotted red;
+}
+table{
+    background-color: indianred;
+    font-size: large;
+    font-style: normal;
+}
